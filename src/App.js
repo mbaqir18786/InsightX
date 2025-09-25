@@ -194,7 +194,7 @@ function App() {
             </form>
           </main>
         ) : (
-          <div id="success-container" className="success-section show">
+          <div id="success-container" className="success-section">
             <div className="success-message">
               <i className="fas fa-check-circle success-icon"></i>
               <h2>Registration Successful!</h2>
